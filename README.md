@@ -1,0 +1,1 @@
+# test-repo-resources-with-json
