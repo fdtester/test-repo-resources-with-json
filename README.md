@@ -1,1 +1,1 @@
-# test-repo-resources-with-json
+# Test repository with json data
