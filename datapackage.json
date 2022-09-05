@@ -27,7 +27,7 @@
          }
       },
       {
-         "name":"r-nd-json",
+         "name":"r-ndjson",
          "path":"table.ndjson",
          "type": "table",
          "schema":{
