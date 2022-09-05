@@ -1,0 +1,29 @@
+{
+   "name":"package-with-json-data",
+   "resources":[
+      {
+         "name":"main",
+         "path":"table.keyed.json",
+         "schema":{
+            "fields":[
+               {
+                  "name":"id",
+                  "description":"Any positive integer",
+                  "type":"integer",
+                  "constraints":{
+                     "minimum":1
+                  }
+               },
+               {
+                  "name":"name of language",
+                  "description":"Name of spoken language",
+                  "type":"string"
+               }
+            ],
+            "primaryKey":[
+               "id"
+            ]
+         }
+      }
+   ]
+}
