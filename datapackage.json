@@ -4,6 +4,7 @@
       {
          "name":"r-keyed-json",
          "path":"table.keyed.json",
+         "type": "table",
          "schema":{
             "fields":[
                {
@@ -28,6 +29,7 @@
       {
          "name":"r-nd-json",
          "path":"table.ndjson",
+         "type": "table",
          "schema":{
             "fields":[
                {
